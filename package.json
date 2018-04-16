@@ -1,0 +1,17 @@
+{
+  "name": "pdf-thumbnail",
+  "version": "1.0.0",
+  "description": "auto-pdf-thumbnail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "gm": "^1.23.0",
+    "mktemp": "^0.4.0",
+    "node-uuid": "^1.4.8"
+  }
+}
